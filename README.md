@@ -1,7 +1,8 @@
 # Wiktor Gerałtowski
 
 ## Computer Science student
-OOP enthusiast | Love scalable projects & clever algorithms.
+
+* OOP enthusiast | Love scalable projects & clever algorithms.
 <!--
 **wg469282/wg469282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
