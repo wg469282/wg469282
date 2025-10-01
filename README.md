@@ -1,5 +1,7 @@
 ## Wiktor Gerałtowski
 
+# Computer Science student
+My primary coding langiages are C and Java. OOP enthusiast | Love scalable projects & clever algorithms.
 <!--
 **wg469282/wg469282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
