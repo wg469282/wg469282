@@ -1,4 +1,4 @@
-## Wiktor Gerałtowski
+### Wiktor Gerałtowski
 
 # Computer Science student
 My primary coding langiages are C and Java. OOP enthusiast | Love scalable projects & clever algorithms.
