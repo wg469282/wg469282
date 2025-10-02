@@ -1,4 +1,4 @@
-# Wiktor Geerałtowski
+# Wiktor Gerałtowski
 
 💡 Passionate about object-oriented design, algorithms, and scalable systems  
 🚀 Looking for software engineering internships (FAANG-level challenges welcome!)
@@ -20,7 +20,7 @@
 
 ## 📫 Contact
 - Email: wiktor.geraltowski@gmail.com  
-- [LinkedIn]([link](https://www.linkedin.com/in/wiktor-gerałtowski-05225a388/#main-content))
+- [LinkedIn]((https://www.linkedin.com/in/wiktor-gerałtowski-05225a388/#main-content))
 
 <!--
 **wg469282/wg469282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
