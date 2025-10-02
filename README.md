@@ -20,7 +20,8 @@
 
 ## 📫 Contact
 - Email: wiktor.geraltowski@gmail.com  
-- [LinkedIn]((https://www.linkedin.com/in/wiktor-gerałtowski-05225a388/#main-content))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twoj-profil)
+
 
 <!--
 **wg469282/wg469282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
