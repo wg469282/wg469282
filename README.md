@@ -20,7 +20,7 @@
 
 ## 📫 Contact
 - Email: wiktor.geraltowski@gmail.com  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twoj-profil)
+  [![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twoj-profil](https://www.linkedin.com/in/wiktor-gerałtowski-05225a388/#main-content))
 
 
 <!--
