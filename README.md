@@ -1,7 +1,7 @@
 # Wiktor Gerałtowski
 
 💡 Passionate about object-oriented design, algorithms, and scalable systems  
-🚀 Looking for software engineering internships (FAANG-level challenges welcome!)
+🚀 Looking for software engineering internships 
 
 ## 🔧 Tech Stack
 - **Languages:** C, C++, Python, Java  
