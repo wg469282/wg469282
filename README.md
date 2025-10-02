@@ -4,7 +4,6 @@
 🚀 Looking for software engineering internships 
 
 
-## 📂 Selected Projects
 ## 🛠️ Tech stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
