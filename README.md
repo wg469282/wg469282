@@ -3,9 +3,6 @@
 💡 Passionate about object-oriented design, algorithms, and scalable systems  
 🚀 Looking for software engineering internships 
 
-## 🔧 Tech Stack
-- **Languages:** C, C++, Python, Java  
-- **Tools & Frameworks:** Git, Docker, Linux 
 
 ## 📂 Selected Projects
 ## 🛠️ Tech stack
