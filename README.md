@@ -1,6 +1,6 @@
 # Wiktor Gerałtowski
 
-💡 Passionate about object-oriented design, algorithms, and scalable systems  
+💡 Passionate about object-oriented design, algorithms, and reliable scalable systems  
 🚀 Looking for software engineering internships 
 
 
